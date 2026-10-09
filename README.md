@@ -1,0 +1,1 @@
+Minimal static website for Suno Alta GmbH, with English content in `index.html`, German content in `de/index.html`, and a shared `style.css`. Publish this folder with GitHub Pages; `CNAME` sets the custom domain to sunoalta.com and `.nojekyll` enables direct static file serving. All navigation and stylesheet paths are relative, so the site also works under `/sunoalta-site/`.
